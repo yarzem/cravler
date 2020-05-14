@@ -1,0 +1,3 @@
+C:/Users/yarsm/CLionProjects/cravler/cmake-build-debug/CMakeFiles/cravler.dir
+C:/Users/yarsm/CLionProjects/cravler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarsm/CLionProjects/cravler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

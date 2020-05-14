@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\yarsm\CLionProjects\cravler
+CMake Error at CMakeLists.txt:2 (include):
+  include could not find load file:
+
+    tools/gate/cmake/HunterGate.cmake
+
+
+CMake Error at CMakeLists.txt:4 (HunterGate):
+  Unknown CMake command "HunterGate".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/yarsm/CLionProjects/cravler/cmake-build-debug/CMakeFiles/CMakeOutput.log".
